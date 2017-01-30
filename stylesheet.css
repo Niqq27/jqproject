@@ -1,8 +1,8 @@
 div .butt{
 
 	background-color: green;
-	height: 4px;
-	width: 4px;
+	height: 8px;
+	width: 8px;
 	display: inline-block;
 	
 }
@@ -12,7 +12,3 @@ div .butt{
 	background-color: gray;
 }
 
-.butt:hover {
-
-	background-color: grey;
-}
