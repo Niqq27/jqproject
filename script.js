@@ -3,6 +3,13 @@ $(document).ready(function(){
 generateGrid();
 colorSquares();
 
+$("#clear").click(function(){
+
+	clear();
+
+
+})
+
 });
 function generateGrid() {
 
