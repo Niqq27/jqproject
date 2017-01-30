@@ -27,9 +27,12 @@ function colorSquares(){
 
 function clear(){
 
+	console.log("clear called");
+
 	$(".butt").each(function(){
 
 		$(this).remove();
+		console.log("cleared");
 
 
 	})
