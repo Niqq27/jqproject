@@ -1,9 +1,15 @@
 .butt{
 
 	background-color: green;
+	display: inline-block;
 }
 
 #container {
 
 	background-color: gray;
+}
+
+.butt:hover {
+
+	background-color: grey;
 }
