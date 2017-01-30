@@ -4,11 +4,15 @@ div .butt{
 	height: 8px;
 	width: 8px;
 	display: inline-block;
+	margin: 0px 0px;
+	padding: 0px 0px;
+	border: solid 1px black;
 	
 }
 
 #container {
 
 	background-color: gray;
+	padding: 10px 5px;
 }
 
