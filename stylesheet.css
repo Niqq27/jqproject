@@ -21,6 +21,11 @@ button #clear {
 	float: right;
 	margin: 0px 0px;
 	padding: 10px 7px;
+	color: grey;
+	background-color: grey;
+	border-radius: 10px;
 }
+
+
 
 
