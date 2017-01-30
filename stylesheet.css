@@ -1,8 +1,8 @@
 div .butt{
 
 	background-color: green;
-	height: 20px;
-	width: 20px;
+	height: 60px;
+	width: 60px;
 	float: left;
 	margin: 0px 0px;
 	padding: 0px 0px;
@@ -20,7 +20,7 @@ button #clear {
 
 	float: right;
 	margin: 0px 0px;
-	padding: 10px 7px;
+	padding: 40px 35px;
 	color: grey;
 	background-color: grey;
 	border-radius: 10px;
